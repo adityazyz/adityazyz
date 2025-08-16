@@ -1,5 +1,5 @@
 # ⚡️ About Me:
-A MERN stack and React Native Developer who is also an expert public speaker. Currently exploring DevOps field.
+Developer with years of professional experience across frontend, backend, AI, and DevOps
 
 
 ## 🌐 Socials:

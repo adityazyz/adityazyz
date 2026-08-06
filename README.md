@@ -12,8 +12,8 @@ Developer with years of professional experience across frontend, backend, AI, an
  ### 🚀 contributions! 
 ![Contribution grid snake animation](https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg) 
 
-<p align="center">
+<!-- <p align="center">
 
 ![image](https://user-images.githubusercontent.com/61057666/169029838-74df663d-2e62-4d77-bdff-b43f7d63f00f.png)
 
-</p>
+</p> -->
